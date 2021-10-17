@@ -1,0 +1,11 @@
+{
+    "name": "boost-preprocessor",
+    "version": "1.77.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/solarcaratuva/preprocessor.git"
+    },
+    "export": {
+        "include": ["include"]
+    }
+}
